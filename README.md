@@ -4,3 +4,4 @@ This project demonstrates a mock Jenkins pipeline with seven stages.
 Testing Jenkins automatic polling trigger.
 Second automatic trigger test.
 Second automatic trigger test.
+Testing Jenkins automatic trigger again.
